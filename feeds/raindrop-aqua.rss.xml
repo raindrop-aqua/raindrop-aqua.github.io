@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>enjoy programming!</title><link>http://blog.prism7.com/</link><description></description><atom:link href="http://blog.prism7.com/feeds/raindrop-aqua.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 11 Oct 2014 15:19:00 +0900</lastBuildDate><item><title>Hello!</title><link>http://blog.prism7.com/first.html</link><description>&lt;h1&gt;Hello World&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;#39;Hello world.&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Hello world,&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">raindrop-aqua</dc:creator><pubDate>Sat, 11 Oct 2014 15:19:00 +0900</pubDate><guid>tag:blog.prism7.com,2014-10-11:first.html</guid></item></channel></rss>

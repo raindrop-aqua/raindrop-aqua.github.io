@@ -1,0 +1,7 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: 
+
+Sitemap: http://blog.prism7.com/sitemap.xml 
